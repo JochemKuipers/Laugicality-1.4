@@ -1,5 +1,4 @@
 displayName = [c/85C1E9:The Enigma Mod! Updated]
-author = Gs_qs
-version = 0.4
-modReferences = WebCom, WebmilioCommonsAddon
+author = JochemKuipers
+version = 0.5
 weakReferences = CalamityMod
